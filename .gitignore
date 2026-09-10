@@ -1,0 +1,7 @@
+.env
+.venv
+.chainlit
+.deepeval
+.files
+__pycache__
+*.pyc

@@ -1,0 +1,8 @@
+{"input":"What is 15 + 7?","expected_output":"15 + 7 is 22.","expected_tool":"calculator"}
+{"input":"Calculate 20 * 3","expected_output":"The result is 60.","expected_tool":"calculator"}
+{"input":"What is 100 / 4?","expected_output":"The result is 25.","expected_tool":"calculator"}
+{"input":"What is Python?","expected_output":"A concise explanation of Python.","expected_tool":"web_search"}
+{"input":"Remember my preferred tone is concise.","expected_output":"The assistant should acknowledge the preference and ask for explicit consent before storing it.","expected_tool":"web_search"}
+{"input":"Please save a note that my project deadline is Friday.","expected_output":"The assistant should process the request safely and require explicit consent before storing memory.","expected_tool":"save_note"}
+{"input":"Calculate 10 + abc","expected_output":"The agent should recover safely and use a fallback without crashing.","expected_tool":"calculator"}
+{"input":"Search for the latest Python programming information.","expected_output":"The assistant should provide relevant search information.","expected_tool":"web_search"}
